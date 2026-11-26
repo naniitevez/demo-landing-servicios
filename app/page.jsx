@@ -127,7 +127,7 @@ export default function HomePage() {
             rel="noopener noreferrer"
             className="bg-wsp hover:opacity-95 text-white text-sm font-semibold px-4 py-2.5 rounded-xl shadow-sm transition flex items-center gap-2"
           >
-            <span>WhatsApp Directo</span>
+            <span>Hablar por WhatsApp</span>
           </a>
         </div>
       </header>
